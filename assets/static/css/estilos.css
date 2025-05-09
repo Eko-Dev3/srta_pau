@@ -1,0 +1,10 @@
+h1 {
+    margin-bottom: 1rem;       /* Equivalente a mb-4 */
+    font-size: 1.875rem;       /* Equivalente a text-3xl */
+    line-height: 2.25rem;      /* Línea base para text-3xl */
+    font-weight: 700;          /* Equivalente a font-bold */
+  }
+  
+
+
+  
